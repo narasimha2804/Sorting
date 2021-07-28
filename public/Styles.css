@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+
+.Header{
+    text-align: center;
+   
+    background-color: aquamarine;
+    margin-top: 0px;
+    font-size: large;
+    padding: 30px;
+}
+
+
+.Footer{
+    text-align: center;
+    margin-top: 20px solid black;
+    background-color: aquamarine;
+    padding: 10px;
+   
+}
+
+.Bars{
+    background-color: brown;
+    height: 100px;
+    display: inline-block;
+    border: 1px solid;
+    width:11px ;
+    font-size: xx-small;
+    margin-top: 10px;
+}
+
+.container{
+    margin-left: 10px;
+}
+
+button{
+    display:inline;
+}
+
+.buttons{
+    width:50px;
+}
+
+.buttons button{
+    background-color:purple;
+    color: aliceblue;
+    margin: 10px;
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100px;
+    display: block;
+    
+}
+
+.less{
+    text-align: center;
+    width:50px;
+    background-color: black;
+    
+}
+.row{
+    margin-left: 10px;
+}
+.con{
+    text-align: center;
+    width: 1200px;
+   
+    position:inherit;
+    padding: 30px auto 30px auto;
+    background-color: black;
+
+    
+}
